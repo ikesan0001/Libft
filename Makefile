@@ -6,11 +6,11 @@
 #    By: iryoga <iryoga@student.42tokyo.jp>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/05/06 12:30:14 by iryoga            #+#    #+#              #
-#    Updated: 2022/06/14 22:59:51 by iryoga           ###   ########.fr        #
+#    Updated: 2022/08/11 00:17:43 by iryoga           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-CC = gcc
+CC = cc
 
 CFLAGS = -Werror -Wall -Wextra
 
