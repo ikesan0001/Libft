@@ -4,3 +4,4 @@ libftTester
 *.o
 *.a
 /main.c
+*.json
