@@ -6,7 +6,7 @@
 #    By: iryoga <iryoga@student.42tokyo.jp>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/05/06 12:30:14 by iryoga            #+#    #+#              #
-#    Updated: 2022/08/12 05:01:16 by iryoga           ###   ########.fr        #
+#    Updated: 2022/08/12 05:04:19 by iryoga           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -51,7 +51,7 @@ SRCS = ft_isalpha.c \
 	   ft_putstr_fd.c \
 	   ft_putendl_fd.c \
 	   ft_putnbr_fd.c \
-	   
+	   \
 	   ft_lstnew.c \
 	   ft_lstadd_front.c \
 	   ft_lstsize.c \
