@@ -6,7 +6,7 @@
 /*   By: iryoga <iryoga@student.42tokyo.jp>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/12 04:22:20 by iryoga            #+#    #+#             */
-/*   Updated: 2022/08/12 04:25:00 by iryoga           ###   ########.fr       */
+/*   Updated: 2022/08/12 05:06:14 by iryoga           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,5 +14,5 @@
 
 void	ft_lstadd_back(t_list **lst, t_list *new)
 {
-	ft_lstadd_front(&new, *lst);
+	ft_lstadd_front(&new, (*lst));
 }
